@@ -4,5 +4,5 @@ Reversing UEFI firmware requires a lot of background and knowledge about firmwar
 This talk will focus on the discussion around existing UEFI RE plugins for Ghidra and IDA with an explanation of why we decide to start the work on a new tool [efiXplorer](https://github.com/binarly-io/efiXplorer). With our new tool, we automatically recover services calls and EFI type info, so that a firmware code looks like original source.
 
 ## Conferences:
-**Ekoparty 2020 ** [video](https://www.youtube.com/watch?v=rK0tmVa19ME)
+**Ekoparty 2020** [video](https://www.youtube.com/watch?v=rK0tmVa19ME)
 
