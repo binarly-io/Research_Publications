@@ -15,7 +15,9 @@ These attacks impact all versions of Windows from Vista to 11, which is crucial 
 
 ## PoC Demos
 [Hijacking ETW sessions for Process Monitor](https://www.youtube.com/watch?v=7jmjqnrwX2M)
+
 [Attack on Windows Defender ETW sessions](https://www.youtube.com/watch?v=SxrqaIlY488)
+
 [Preventing the Attack on Windows Defender ETW sessions](https://www.youtube.com/watch?v=62CmVadzZPQ)
 
 ## Conferences:
