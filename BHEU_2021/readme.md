@@ -13,5 +13,10 @@ A new protection tool, called Binarly Sensor, can reveal both attacks. It uses a
 
 These attacks impact all versions of Windows from Vista to 11, which is crucial for the design of the core features of ETW.
 
+## PoC Demos
+[Hijacking ETW sessions for Process Monitor](https://www.youtube.com/watch?v=7jmjqnrwX2M)
+[Attack on Windows Defender ETW sessions](https://www.youtube.com/watch?v=SxrqaIlY488)
+[Preventing the Attack on Windows Defender ETW sessions](https://www.youtube.com/watch?v=62CmVadzZPQ)
+
 ## Conferences:
-Black Hat Europe 2021 [video](TBD)
+[Black Hat Europe 2021](https://www.blackhat.com/eu-21/briefings/schedule/index.html#veni-no-vidi-no-vici-attacks-on-etw-blind-edr-sensors-24842)
