@@ -9,4 +9,4 @@ efiXplorer IDA plugin - Most comprehensive open-source IDA plugin for UEFI rever
 The presented IDA plugin discovered multiple previously unreported vulnerabilities in recent widespread hardware platforms from common vendors (like ASUS, ASRock, MSI, Gigabyte, Lenovo, and some others). In this Briefing, we will push a new version of the plugin with functionality to trigger all presented classes of the issues during the talk.
 
 ## Conferences:
-Black Hat Erope 2020 [video](https://www.youtube.com/watch?v=Sa779TGX3wY)
+Black Hat Europe 2020 [video](https://www.youtube.com/watch?v=Sa779TGX3wY)
