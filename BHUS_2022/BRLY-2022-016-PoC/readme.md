@@ -2,9 +2,9 @@
 
 PoC for BRLY-2022-016 (CVE-2022-33209, CVE-2022-40250) vulnerability that demonstrates SMM_Code_Chk_En bypassing using ROP/JOP technique and provides primitives for SMRAM reading/writing and executing arbitrary code in SMM.
 
-BRLY-2022-016 vulnerability was disclosed as part of the BHUS 2022 presentation.
-* Slides: https://i.blackhat.com/USA-22/Wednesday/US-22-Matrosov-Breaking-Firmware-Trust-From-Pre-EFI.pdf
+BRLY-2022-016 vulnerability was disclosed as part of the BHUS 2022 presentation and represents a stack overflow vulnerability in the SMI handler of SmmSmbiosElog module:
 * Binarly advisory: https://www.binarly.io/advisories/BRLY-2022-016/index.html
+* Slides: https://i.blackhat.com/USA-22/Wednesday/US-22-Matrosov-Breaking-Firmware-Trust-From-Pre-EFI.pdf
 
 ## Usage
 
