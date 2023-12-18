@@ -1,0 +1,9 @@
+# Old But Gold: The Underestimated Potency of Decades-Old Attacks on BMC Security
+Baseboard Management Controllers (BMC) possess unparalleled administrative authority over server systems, making their security imperative. Yet, surprisingly, the protocols and software employed in BMCs are often antiquated and riddled with vulnerabilities. Our team at Binarly REsearch has unearthed multiple vulnerabilities of critical and high severity in the Supermicro Intelligent Platform Management Interface (IPMI). These vulnerabilities have the potential to enable persistent control over not only the BMC itself but also the host operating system and host system firmware. At the moment, more than 70,000 endpoints are known that can be attacked remotely using the discovered vulnerabilities.
+
+The peculiarities in BMC software development often pose a unique challenge to hardware vendors. They have to incorporate elements like a web server for interaction with external users, an area where they may lack expertise. Coupled with limited development resources and an unawareness of common web attacks, this often leads to serious issues in system security. In fact, even today, one can discover critical vulnerabilities in BMC firmware that are susceptible to attacks devised two decades ago, such as OS command injection and DOM-based Cross-site scripting. This susceptibility is often a by-product of inadequate user input filtering.
+
+In our presentation, we aim to dissect common attack surfaces against BMC-utilizing devices and the potential ramifications of these attacks. We will share discoveries from our intensive investigation of the Supermicro IPMI, shedding light on the persisting vulnerabilities and their profound implications on overall system security. We will also go through the fundamental safety rules for setting up BMC systems and explain their importance.
+
+## Conferences:
+[H2HC 2023](https://www.h2hc.com.br/en/articles/speaker.html)
